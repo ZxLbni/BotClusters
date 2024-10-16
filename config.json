@@ -3,8 +3,8 @@
         "source": "repo_link",
         "branch": "master",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": "8022651374:AAGVRVoVhAI-hIG-oluLE86InBYW6TbTL7A"
         },
-        "run": "run.sh"
+        "run": "start.sh"
 
 }
