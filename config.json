@@ -1,6 +1,6 @@
 {   
     "bot1": {
-        "source": "repo_link",
+        "source": "https://github.com/ZxLbni/mirror-leech-telegram-bot",
         "branch": "master",
         "env": {
             "BOT_TOKEN": "8022651374:AAGVRVoVhAI-hIG-oluLE86InBYW6TbTL7A"
